@@ -1,12 +1,7 @@
 // -*- mode:C++; tab-width:4; c-basic-offset:4; indent-tabs-mode:nil -*-
 
-/**
- * @ingroup yarp_devices_firmware
- * @defgroup yarp_devices_cuiAbsolute CuiAbsolute firmware
- *
- * @brief Firmware that allows communication with the PIC and the publication of position messages.
- *
- * @section teo_body_firmware_legal Legal
+/*
+ * PIC firmware for interfacing with an absolute CUI encoder through CAN.
  *
  * Copyright: 2023 (C) Universidad Carlos III de Madrid
  * Original author: Román Avellán Martín (master's thesis, UC3M, 2015)
