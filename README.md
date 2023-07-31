@@ -34,3 +34,7 @@ A 1 Mbps CAN channel is used to interface with the receiver code running on the 
 | stop push mode                             | 0x02                              | empty             | 0x100   |
 | poll current value                         | 0x03                              | *value* (4 bytes) | 0x180   |
 | set encoder to zero                        | 0xFF                              | empty             | 0x200   |
+
+## See also
+
+* Víctor César Sanz Labella, *Diseño del circuito electrónico de control y programación de una mano subactuada para el robot humanoide TEO*, bachelor's thesis, Universidad Carlos III de Madrid, 2014. ([lacquey-pic-firmware](https://github.com/roboticslab-uc3m/lacquey-pic-firmware))
